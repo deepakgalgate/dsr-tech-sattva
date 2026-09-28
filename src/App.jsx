@@ -8,7 +8,7 @@ import Faq from "./components/Faq";
 import CtaBand from "./components/CtaBand";
 import Footer from "./components/Footer";
 import WhatsAppFloat from "./components/WhatsAppFloat";
-import "./app.css";
+import "./App.css";
 
 export default function App() {
   return (
